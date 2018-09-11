@@ -1,0 +1,52 @@
+h1{
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black
+}
+
+header img{
+    width: 6vw;
+    margin-right: 10px;
+    padding: 5px;
+}
+
+.menu a{
+    text-decoration: none;
+    color: white;
+    font-size: 12pt;
+    margin-left: 215px;;
+
+}
+
+aside{
+    display: flex;
+    justify-content: space-around;
+    align-items: center
+}
+
+aside h2, p{
+    padding: 10px;
+    margin: 20px 10px 10px 0px;
+}
+
+.text p{
+    font-weight: bold;
+    color: grey;
+}
+
+.Receita{
+    font-size: 11pt;
+    color: black;
+    line-height: 20px;
+    letter-spacing: 1px;
+    margin-left: 15px;
+    
+}
+
