@@ -2,51 +2,72 @@ h1{
     color: blue;
     text-align: center;
     font-weight: bold;
-}
-
-header{
+ }
+ 
+ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
     background-color: black
-}
-
-header img{
+ }
+ 
+ header img{
     width: 6vw;
     margin-right: 10px;
     padding: 5px;
-}
-
-.menu a{
+ }
+ 
+ .menu a{
     text-decoration: none;
     color: white;
     font-size: 12pt;
     margin-left: 215px;;
-
-}
-
-aside{
+ 
+ }
+ 
+ aside{
     display: flex;
     justify-content: space-around;
     align-items: center
-}
-
-aside h2, p{
+ }
+ 
+ aside h2, p{
     padding: 10px;
     margin: 20px 10px 10px 0px;
-}
-
-.text p{
+ }
+ 
+ .text p{
     font-weight: bold;
     color: grey;
-}
-
-.Receita{
+ }
+ 
+ .Receita{
     font-size: 11pt;
     color: black;
     line-height: 20px;
     letter-spacing: 1px;
     margin-left: 15px;
-    
-}
-
+   
+ }
+ 
+ #teste2 {
+    font-size: 50pt;
+    margin-left: 110px;
+    margin-bottom: 100px;
+    font-style: italic;
+ }
+ 
+ 
+ .teste {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 400px;
+    margin-bottom: 50px;
+ }
+ 
+ .rodape {
+    text-decoration: none;
+    margin-left: 450px;
+ }
+ 
