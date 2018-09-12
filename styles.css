@@ -50,20 +50,19 @@ h1{
    
  }
  
- #teste2 {
+ /* #teste2 {
     font-size: 50pt;
     margin-left: 110px;
     margin-bottom: 100px;
     font-style: italic;
- }
+ } */
  
  
  .teste {
+    justify-content: space-around;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-left: 400px;
-    margin-bottom: 50px;
+    padding: 50px;
+    background: black;
  }
  
  .rodape {
